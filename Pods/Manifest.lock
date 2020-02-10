@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.9.1)
+  - SDWebImage (5.4.2):
+    - SDWebImage/Core (= 5.4.2)
+  - SDWebImage/Core (5.4.2)
+  - SROTPView (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage
+  - SROTPView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SROTPView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  SDWebImage: 4ca2dc4eefae4224bea8f504251cda485a363745
+  SROTPView: a6715e8377a8acff39830eb958394a9b9f8d4f70
+
+PODFILE CHECKSUM: bd2f4d0433a7eefc87f63c962aadca24ea855a58
+
+COCOAPODS: 1.8.4
